@@ -53,4 +53,6 @@ body {
 }
 #pic {
 	width: 20%;
+	display: block;
+	float: right;
 }
